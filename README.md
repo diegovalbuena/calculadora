@@ -6,7 +6,7 @@ Diego David Valbuena  Muñoz.
 
 ![GitHub Logo](/calculadora/imagen_calculadora_1.png)
 
-"imagen del programa en la primera pestaña dosnde se observa las fuinciones de cálculo".
+"imagen del programa en la primer pestaña donde se observa las funsiones  de calculo".
 
 ![GitHub Logo](/calculadora/imagen_calculadora_2.png)
 
