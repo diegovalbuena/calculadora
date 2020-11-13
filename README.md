@@ -1,5 +1,5 @@
 # calculadora
-Este proyecto es libre y de prueba para  aprender sobre el uso de la libreria Tkinter de Python y el repostoio de github :).
+Este proyecto es libre y de prueba para  aprender sobre el uso de la libreria Tkinter de Python y el repositorio de github :).
 
 Realizado por:
 Diego David Valbuena  Muñoz.
